@@ -1,0 +1,35 @@
+# Build directories
+build/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Visual Studio Code
+.vscode/
+
+# CLion
+.idea/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
